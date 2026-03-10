@@ -13,7 +13,7 @@ muschellij2 badge:
 
 ### The Automated R Instructor
 
-Ari is an R package designed to help you make videos from plain text files. Ari
+Ari is an R package designed to help you make videos from plain text to files. Ari
 uses [Amazon Polly](https://aws.amazon.com/polly/) to convert your text into
 speech. You can then provide images or a set of HTML slides which Ari will
 narrate based on a script you provide. Ari uses FFmpeg to stitch together audio
