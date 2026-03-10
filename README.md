@@ -19,7 +19,7 @@ speech. You can then provide images or a set of HTML slides which Ari will
 narrate based on a script you provide. Ari uses FFmpeg to stitch together audio
 and images.
 
-## Installation
+Step 1 — Install required packages
 
 ```R
 install.packages("ari")
